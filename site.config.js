@@ -1,24 +1,24 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "JihooKim",
+    name: "김지후",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "software engineer",
     bio: "Daily Learning Log",
     email: "jihoo.taylor@gmail.com",
-    linkedin: "JihooKim",
+    linkedin: "none",
     github: "https://github.com/jihoo-o",
-    instagram: "JihooKim",
+    instagram: "none",
   },
   projects: [
     {
-      name: `JihooKim`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Blog Repo`,
+      href: "https://github.com/jihoo-o/jihookim",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "JihooKim",
+    title: "김지후",
     description: "Daily Learning Log",
   },
 
